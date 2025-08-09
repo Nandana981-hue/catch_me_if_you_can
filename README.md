@@ -55,15 +55,6 @@ For Software:
 ![Screenshot3](WhatsApp Image 2025-08-09 at 5.41.41 AM.jpeg)
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 
 ## Team Contributions
