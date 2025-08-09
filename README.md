@@ -47,10 +47,10 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](WhatsApp Image 2025-08-09 at 5.41.41 AM.jpeg)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+
+![Screenshot2](WhatsApp Image 2025-08-09 at 5.41.41 AM.jpeg)
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
